@@ -2,7 +2,7 @@
 Power Board for BBC micro:bit
 
 Key Features :<br>
-Compact all-in-one design for BBC micro:bit
+Compact all-in-one design for BBC micro:bit<br>
 ( 52mm Lenght / 42mm Width / 20mmHeight)<br>
 
 1 Set of Buzzer (Share P0)<br>
